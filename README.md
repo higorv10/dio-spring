@@ -44,7 +44,7 @@ A aplicação expõe uma API RESTful para gerenciamento de clientes, realizando 
 1. Clone o repositório:
 
   ```bash
-  git clone https://github.com/higorv10/dio-sping.git
+  git clone https://github.com/higorv10/dio-spring.git
   cd dio-spring\demo
 
   ```
