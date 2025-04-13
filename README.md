@@ -45,9 +45,13 @@ A aplicação expõe uma API RESTful para gerenciamento de clientes, realizando 
 
   ```bash
   git clone https://github.com/higorv10/dio-sping.git
-  cd io-spring
+  cd dio-spring\demo
 
   ```
+2. Após clonar o repositório, localize o arquivo `DemoApplication.java` no seu diretório local:
+   ```css
+   [CAMINHO_DO_REPOSITÓRIO]\src\main\java\dio\spring\demo\DemoApplication.java
+   ```
 
 2. Execute o projeto:
 
@@ -55,11 +59,14 @@ A aplicação expõe uma API RESTful para gerenciamento de clientes, realizando 
   ./mvnw spring-boot:run
   ```
 
-3. Acesse:
+3. Caso esteja utilizando o VSCode, basta abrir o projeto, localizar o arquivo `DemoApplication.java` e clicar com o botão direito sobre ele para selecionar a opção Run. O terminal irá exibir as instruções para interagir com a aplicação.
+
+4. Acesse:
 
   - Swagger/OpenAPI: `http://localhost:8080/swagger-ui.html` (se configurado)
 
   - Endpoints REST: `http://localhost:8080/clientes`
+
 
 ---
 
