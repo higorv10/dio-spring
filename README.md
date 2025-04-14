@@ -43,11 +43,11 @@ A aplicação expõe uma API RESTful para gerenciamento de clientes, realizando 
 
 1. Clone o repositório:
 
-  ```bash
-  git clone https://github.com/higorv10/dio-spring.git
-  cd dio-spring\demo
+   ```bash
+   git clone https://github.com/higorv10/dio-spring.git
+   cd dio-spring\demo
 
-  ```
+   ```
 2. Após clonar o repositório, localize o arquivo `DemoApplication.java` no seu diretório local:
    ```css
    [CAMINHO_DO_REPOSITÓRIO]\src\main\java\dio\spring\demo\DemoApplication.java
@@ -55,9 +55,9 @@ A aplicação expõe uma API RESTful para gerenciamento de clientes, realizando 
 
 2. Execute o projeto:
 
-  ```bash
-  ./mvnw spring-boot:run
-  ```
+   ```bash
+   ./mvnw spring-boot:run
+   ```
 
 3. Caso esteja utilizando o VSCode, basta abrir o projeto, localizar o arquivo `DemoApplication.java` e clicar com o botão direito sobre ele para selecionar a opção Run. O terminal irá exibir as instruções para interagir com a aplicação.
 
