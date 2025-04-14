@@ -125,7 +125,7 @@ dio.spring.demo
 ---
 
 ## 📄 Licença
-Desenvolvido durante o Bootcamp Bradesco Java Cloud Native na DIO. para fins educacionais.
+Desenvolvido durante o Bootcamp Bradesco Java Cloud Native na DIO para fins educacionais.
 
 
 
